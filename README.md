@@ -1,7 +1,6 @@
 <div align="center">
   
-<img width="180" height="96" alt="image" src="https://github.com/user-attachments/assets/c7901564-a42d-4fc9-ab43-ee9a992a5293" />
-
+<img width="188" height="100" alt="Tumblr-l-1006060514123463" src="https://github.com/user-attachments/assets/de111104-f491-43a1-83ed-b52cfb853115" />
 
 ![](https://komarev.com/ghpvc/?username=pusosmessroom&label=Page+Views&color=0398fc)
 
