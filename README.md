@@ -1,8 +1,9 @@
 <div align="center">
   
-<img width="188" height="100" alt="Tumblr-l-1006060514123463" src="https://github.com/user-attachments/assets/de111104-f491-43a1-83ed-b52cfb853115" />
 
 ![](https://komarev.com/ghpvc/?username=pusosmessroom&label=Page+Views&color=0398fc)
+
+<img width="188" height="100" alt="Tumblr-l-1006060514123463" src="https://github.com/user-attachments/assets/de111104-f491-43a1-83ed-b52cfb853115" />
 
 $\color{#0398fc}{\textsf{ hi i'm ozolog/puso! call me whichever name you prefer as i dont really have a preference...}}$
 $\color{#0398fc}{\textsf{ i draw a lot and i love spending time with my friends!}}$
