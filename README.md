@@ -10,6 +10,8 @@ $\color{#0398fc}{\textsf{ i draw a lot and i love spending time with my friends!
 $\color{#0398fc}{\textsf{ please dont be scared of approaching me!!}}$
 $\color{#0398fc}{\textsf{ im very friendly and always down for a convo!!}}$
 
+$\color{#0398fc}{\textsf{check out my strawpage and twitter!}}$
+
 <img width="1900" height="432" alt="Image" src="https://github.com/user-attachments/assets/e61f607c-6ae3-4d9c-9f8e-cf0091da4265" />
 
 
